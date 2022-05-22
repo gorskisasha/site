@@ -1,0 +1,77 @@
+ body {
+    background: #c7b39b url(1.jpg); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+   }
+
+	img {
+		
+  border-radius: 40%;
+
+}
+
+ .menu-one{
+  
+    
+    width: 150px; /* Ширина */
+    height: 190px; /* Высота */
+    float: left; /* Блоки выстраиваются по горизонтали */
+    margin:10% 1% 10% 10%; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+    }
+ .menu-two{ 
+    width: 150px; /* Ширина */
+    height: 190px; /* Высота */
+    float: left; /* Блоки выстраиваются по горизонтали */
+    margin:10% 1% 10% 10%;/* Отступы */
+    text-align: center; /* Выравнивание по центру */
+    }  
+	 .menu-three{
+ 
+    width: 150px; /* Ширина */
+    height: 190px; /* Высота */
+    float: left; /* Блоки выстраиваются по горизонтали */
+     margin:10% 1% 10% 10%; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+    }
+	 .menu-four{
+ 
+    
+    width: 150px; /* Ширина */
+    height: 190px; /* Высота */
+    float: left; /* Блоки выстраиваются по горизонтали */
+    margin:10% 1% 10% 10%; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+    }
+	.menu-one:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.menu-two:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+	.menu-three:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+	.menu-four:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+   figure p {
+    margin-bottom: 0; 
+	
+   }
+    figcaption { 
+	 font-weight:bold;
+    text-align: center;
+	font-size:18px;
+font-style:italic;
+ text-shadow: 2px 2px 3px #000;
+   }
+   
